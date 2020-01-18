@@ -8,4 +8,5 @@ public class work {
     private int id;
     private int it;
     private String address;
+    private String sex;
 }
